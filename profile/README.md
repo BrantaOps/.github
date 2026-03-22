@@ -6,7 +6,7 @@ Send bitcoin with absolute certainty using [Branta](https://www.branta.pro).
 
 By adopting Branta verification sendside, you can populate Name/Logo of the recipient for your users, all without leaking data. Majority of the Branta Network is listed here: https://www.branta.pro/network
 
-After integrating, open a [PR](https://github.com/BrantaOps/integration-data) to list your wallet.
+After integrating, open a [PR](https://github.com/BrantaOps/branta-network) to list your wallet.
 
 ## Recieving Bitcoin
 
