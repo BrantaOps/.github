@@ -1,6 +1,6 @@
 # About Branta 
 
-Send bitcoin with absolute certainty using [Branta](https://www.branta.pro).
+Send money with absolute certainty.
 
 ## Sending Bitcoin
 
