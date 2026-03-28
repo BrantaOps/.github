@@ -4,9 +4,9 @@ Send with absolute certainty.
 
 # Sending
 
-By adopting Branta verification sendside, you can populate Name/Logo of the recipient for your users, all without leaking data. Majority of the Branta Network is listed here: https://www.branta.pro/network
+Display recipient name + logo for your users, without compromising privacy. 
 
-After integrating, open a [PR](https://github.com/BrantaOps/branta-network) to list your wallet.
+List your wallet on the [Network Page](https://www.branta.pro/network) by opening a  [PR](https://github.com/BrantaOps/branta-network).
 
 # Recieving
 
