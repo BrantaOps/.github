@@ -1,6 +1,6 @@
 # About Branta 
 
-Send money with absolute certainty.
+Send with absolute certainty.
 
 ## Sending Bitcoin
 
