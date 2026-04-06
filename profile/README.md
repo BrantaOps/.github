@@ -4,12 +4,13 @@ Send with absolute certainty.
 
 # Send
 
-Display recipient name + logo for your users, without compromising privacy. 
+Display recipient name and logo for your users, without compromising privacy.
 
 List your wallet on the [Network Page](https://www.branta.pro/network) by opening a  [PR](https://github.com/BrantaOps/branta-network).
 
 # Recieve
 
+Let your customers know exactly where their money is going, before hitting "send".
 Signup at: https://guardrail.branta.pro/session/new
 
 # SDK
