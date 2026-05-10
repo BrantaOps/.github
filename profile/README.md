@@ -21,3 +21,6 @@ Signup [here](https://guardrail.branta.pro/session/new).
 
 The Raw API can be consumed for custom implementation.
 - [developer.branta.pro](https://developer.branta.pro/guardrail-tech/api)
+
+# BTCPay Server
+- [Plugin](https://plugin-builder.btcpayserver.org/public/plugins/branta)
