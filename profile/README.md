@@ -1,6 +1,4 @@
-# About Branta 
-
-Pay with certainty.
+# Pay with Certainty
 
 # Send
 
