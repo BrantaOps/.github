@@ -15,6 +15,7 @@ Signup [here](https://guardrail.branta.pro/session/new).
 - [branta-dart](https://github.com/BrantaOps/branta-dart)
 - [branta-js](https://github.com/BrantaOps/branta-js)
 - [branta-python](https://github.com/BrantaOps/branta-python)
+- [branta-kotlin](https://github.com/BrantaOps/branta-kotlin)
 
 # API
 
