@@ -1,14 +1,5 @@
 # Pay with Certainty
 
-# Send
-
-Display counterparty info before sending. List your wallet on the [Network Page](https://www.branta.pro/network) by opening a [pull request](https://github.com/BrantaOps/branta-network).
-
-# Recieve
-
-Let customers know they're paying the right address.
-Signup [here](https://guardrail.branta.pro/session/new).
-
 # SDK
 
 - [branta-dotnet](https://github.com/BrantaOps/branta-dotnet)
