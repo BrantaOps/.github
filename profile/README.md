@@ -1,5 +1,3 @@
-# Pay with Certainty
-
 # SDK
 
 - [branta-dotnet](https://github.com/BrantaOps/branta-dotnet)
