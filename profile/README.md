@@ -11,9 +11,8 @@
 - [branta-go](https://github.com/BrantaOps/branta-go)
 - [branta-swift](https://github.com/BrantaOps/branta-swift)
 
-# API
+# Documentation
 
-The Raw API can be consumed for custom implementation.
 - [developer.branta.pro](https://developer.branta.pro/guardrail-tech/api)
 
 # BTCPay Server
