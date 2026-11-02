@@ -2,7 +2,7 @@
 
 Report a security issue to [support@branta.pro](mailto:support@branta.pro). We will review it and respond as quickly as we can.
 
-The same policy is published at [branta.pro/security](https://branta.pro/security).
+The same policy is published at [branta.pro/disclosure](https://branta.pro/disclosure).
 
 ## Scope
 
