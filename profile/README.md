@@ -12,7 +12,7 @@
 
 # Documentation
 
-- [developer.branta.pro](https://developer.branta.pro/guardrail-tech/api)
+- [developer.branta.pro](https://developer.branta.pro)
 
 # BTCPay Server
 - [Plugin](https://plugin-builder.btcpayserver.org/public/plugins/branta)
